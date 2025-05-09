@@ -39,7 +39,7 @@ git clone https://github.com/yourusername/FNP-Dashboard.git
 - Visualize data through interactive **Charts and Dashboards**.
 
 ## Screenshots of Dashboard
-![Dashboard]([path/to/screenshot.png](https://github.com/Poonam-Atakare/FNP-Dashboard-Project/blob/main/Screenshot%202025-05-04%20200454.png))
+<img src="[images/screenshot.png](https://github.com/Poonam-Atakare/FNP-Dashboard-Project/blob/main/Screenshot%202025-05-04%20200454.png)" width="600" alt="Screenshot">
 
 
 ## Technologies Used
